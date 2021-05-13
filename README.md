@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm very enthusiastic about control engineering and control systems, electronic circuit design and a.i - machine learning
+- 🌱 Currently I'm educationg myself in control engineering and running simulations of mobile robots
+- 📫 How to reach me: Email - ikramsultan00@gmail.com , LinkedIn - https://www.linkedin.com/in/muhammad-ikram-15096b182/
+- 👯 I’m looking to collaborate on any control system or electronic design based projects.
+- ⚡ Some other facts: I am currently a microsoft learn student ambassador from Bangladesh.
+
+
 <!--
 **Ikram-rs22/Ikram-rs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
